@@ -1,4 +1,4 @@
-# 🚀 UserManager - Cadastro Simples de Usuários
+# 🚀  Cadastro Simples de Usuários
 
 Este é um projeto inicial **Full Stack** projetado para servir como um ponto de partida para quem está aprendendo a trabalhar com o ecossistema **React** e **Node.js/Express**.
 
@@ -37,7 +37,7 @@ Este projeto é construído sobre uma **stack JavaScript** moderna e popular.
 | :--- | 
 | **React** | 
 | **JavaScript** | 
-| **CSS Padrão** | 
+| **CSS** | 
 
 ---
 
