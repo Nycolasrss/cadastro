@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(90deg, #2BA19E 0%, #20908D 100%);
+  color: #ffffff7a;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #20908d;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+h1{
+  text-align: center;
+  padding: 50px;
+}
+div{
+  text-align: center;
+  font-size: 20px;
+  text-align: center;
+  padding: 50px;
+}
