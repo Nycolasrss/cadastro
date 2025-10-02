@@ -23,16 +23,18 @@ Este projeto é construído sobre uma **stack JavaScript** moderna e popular.
 
 ### Back-end (API)
 
-| Tecnologia | Descrição |
-| :--- | :--- |
-| **Node.js** | | **Express** | 
-| **JavaScript** | | **Mongo db** | 
+| Tecnologia | 
+| :--- | 
+| **Node.js** | 
+| **Express** | 
+| **JavaScript** |
+| **Mongo db** | 
 | **Prisma** |
 
 ### Front-end (Web)
 
-| Tecnologia | Descrição |
-| :--- | :--- |
+| Tecnologia |
+| :--- | 
 | **React** | 
 | **JavaScript** | 
 | **CSS Padrão** | 
